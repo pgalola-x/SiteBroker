@@ -35,7 +35,7 @@ from modules import whoIS,          websiteSpeed
 
 line        = "-" * 69
 user_agent  = "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36"
-val_Select  = f"\t{r}[$] Please Use The Index Value From The List\n\t\t[+] Not By Your Own :/\n\t\t\t ~ An0n 3xPloiTeR  \n"
+val_Select  = f"\t{r}[$] Please Use The Index Value From The List\n\t\t[+] Not By Your Own :/\n\t\t\t ~ An0n 3xPloiTeR
 str_Index   = f"\n\t{r}[=] Please Input a Integer (i.e, 1, 2, 3) :\\\n\t\t{c}~ An0n 3xPloiTeR :)"
 _headers    = {
     'User-Agent': user_agent,
